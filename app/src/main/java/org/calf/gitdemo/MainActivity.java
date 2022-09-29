@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
     void addMethod4(){}
 
+    void addMethod5(){}
+
     void addMethod6(){}
 
 }
