@@ -13,4 +13,7 @@ public class Writer {
     void addMethod2() {
     }
 
+    void addMethod3() {
+    }
+
 }
