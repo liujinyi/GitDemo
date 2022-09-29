@@ -10,4 +10,5 @@ public class Pdf {
 
     void addMethod2(){}
 
+    void addMethod3(){}
 }
