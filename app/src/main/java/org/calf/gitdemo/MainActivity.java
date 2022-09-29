@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
 
     void addMethod7(){}
 
-    void addMethod8(){}
-
     void addMethod9(){}
 
 }
