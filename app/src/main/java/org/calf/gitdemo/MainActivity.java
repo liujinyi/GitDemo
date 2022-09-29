@@ -28,6 +28,4 @@ public class MainActivity extends AppCompatActivity {
 
     void addMethod9(){}
 
-    void addMethod10(){}
-
 }
