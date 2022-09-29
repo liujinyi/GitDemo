@@ -7,4 +7,7 @@ package org.calf.gitdemo;
  */
 public class Pdf {
     void addMethod1(){}
+
+    void addMethod2(){}
+
 }
